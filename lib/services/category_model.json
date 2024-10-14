@@ -1,0 +1,16 @@
+{
+    "categories": [
+        {
+            "name": "Men Clothing & Fashion",
+            "subcategory": [
+                "Jackets", "Formal Dress", "Accessories"
+            ]
+        },
+        {
+            "name": "",
+            "subcategory": [
+                "Laptops", "Gaming PC", "Equipments"
+            ]
+        }
+    ]
+}

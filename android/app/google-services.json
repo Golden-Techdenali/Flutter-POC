@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834024265137",
+    "project_id": "techdenali-mart",
+    "storage_bucket": "techdenali-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834024265137:android:73773854c8a8bd0016d990",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZImAu5PQSi_CVWqQC6Uy370mnBOVKBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
